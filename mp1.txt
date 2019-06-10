@@ -59,8 +59,9 @@ background-color:#ECC8E4;
 <a href="designdocument.pdf" target="_blank">Design Document</a></td>
 
 
-<td width="200" height="50" align="center">Final Website</td></tr>
+<td width="200" height="50" align="center">
 
+<a href="fw.pdf" target="_blank">Final Website</a></td>
 
 </table>
 
@@ -104,7 +105,7 @@ currently working on getting my Master in Instructional Technology and will be h
 <li><a href="mp5.html">Mini Project 5</a></li>
 <li><a href="mp6.html">Mini Project 6</a></li>
 <li><a href="designdocument.pdf" target="_blank">Design Document</a></li>
-<li><a href="">Final Website</a></li>
+<li><a href="fw.html">Final Website</a></li>
 </ul>
 
 <ul style="list-style-type:none">
