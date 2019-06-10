@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=”http://www.w3.org/1999/xhtml” xml:lang=”en” lang=”en”>
+ <head>
+ <title>Vuillemot’s Assignment Page </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ </head>
+ <body>
+
+<style> 
+body {
+background-color: #FFCCE6;
+}
+</style>
+
+<h1>Welcome to Nina Vuillemot's Assignments Page</h1>
+
+<img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-19/s150x150/15625518_1768116460178165_7517566753807794176_a.jpg" alt="Nina Vuillemot">
+
+<p>Hi my name is Nina Vuillemot. I am an 8th grade math teacher at Shelby Middle School. I am  
+currently working on getting my Master in Instructional Technology and will be halfway through my degree after this semester. I am currently in my 2nd full year of teaching and will be coaching girls middle school track this year.This is also my first time using HTML but I am really enjoying learning all the features by trial and error. I always thought coding would be extremely difficult but it seems to be pretty easy so far. </p> <img>
+
+<table>
+<table border=”1”.
+<tr alight="center">
+
+<caption><h2>Interesting Facts About Me<h2></caption>
+
+<th> I am currently planning a wedding where I will marry my best friend, Justin, in July of this year. We have been dating for 3 years. </th>
+<th> We also just bought a house together in the same area where we both grew up. It is an old farm house so we are acting like Chip and Joanne and fixing it up. </th>
+<th> A random fact about me is I have dual citizenship with Germany and the United States because my mother was born and raised in Germany. </th> 
+
+<table>
+
+<ul style="list-style-type:disc">
+<h3>Assignment Links<h3>
+
+<li><a href="">Mini Project 1</a><li
+<li><a href="">Mini Project 2</a><li
+<li><a href="">Mini Project 3</a><li
+<li><a href="">Mini Project 4</a><li
+<li><a href="">Mini Project 5</a><li
+<li><a href="">Mini Project 6</a><li
+<li><a href="projectdesigndoc.pdf">Design Document</a><li
+<li><a href="">Final Website</a><li>
+</ul>
+
+<ul style="list-style-type:none">
+<li><a href="www.uakron.edu">University of Akron</a><li
+<li><a href="mailto:njv8@zips.uakron.edu">Email Me</a><li>
+<ul> 
+
+ </body>
+ </html>
