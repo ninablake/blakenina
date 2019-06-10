@@ -61,10 +61,7 @@ background-color:#ECC8E4;
 
 <td width="200" height="50" align="center">
  
-
 <a href="fw.html">Final Website</a></td>
-
-
 
 </table>
 
