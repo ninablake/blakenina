@@ -56,7 +56,9 @@ background-color:#ECC8E4;
 <a href="designdocument.pdf" target="_blank">Design Document</a></td>
 
 
-<td width="200" height="50" align="center">Final Website</td></tr>
+<td width="200" height="50" align="center">
+
+<a href="fw.html">Final Website</a></td>
 
 
 </table>
